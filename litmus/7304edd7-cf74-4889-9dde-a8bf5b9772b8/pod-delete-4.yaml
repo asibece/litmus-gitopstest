@@ -5,6 +5,7 @@ metadata:
   labels:
     cluster_id: e06aae32-bbd5-42eb-b701-69587b619812
     subject: pod-delete-4_litmus
+    workflow_id: 27862ef5-39e9-4e78-a3d0-4ca6a6c5b643
     workflows.argoproj.io/controller-instanceid: e06aae32-bbd5-42eb-b701-69587b619812
   name: pod-delete-4-1635690204
   namespace: litmus
